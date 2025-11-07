@@ -1,7 +1,7 @@
 # Revit Borderless Addin – Run Revit in Borderless Windowed Mode
 
 <p align="center">
-  <img src="https://images.seeklogo.com/logo-png/48/1/autodesk-revit-logo-png_seeklogo-482393.png" alt="Revit Borderless Addin Logo"/>
+  <img src="https://i.pinimg.com/564x/24/34/4d/24344de61bd63d09ce550e83e6dbe490.jpg" alt="Revit Borderless Addin Logo"/>
 </p>
 
 <p align="center">
